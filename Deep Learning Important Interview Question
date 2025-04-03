@@ -1,3 +1,3 @@
-[. Why do deep neural networks suffer from vanishing and exploding gradients, and how can they be mitigated?]
+##. Why do deep neural networks suffer from vanishing and exploding gradients, and how can they be mitigated?]
 
 While training an RNN, your slope can become either too small or too large; this makes the training difficult. When the slope is too small, the problem is known as a “Vanishing Gradient.” When the slope tends to grow exponentially instead of decaying, it’s referred to as an “Exploding Gradient.” Gradient problems lead to long training times, poor performance, and low accuracy.
