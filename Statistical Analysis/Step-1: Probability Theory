@@ -1,1 +1,39 @@
+7.	What is a probability distribution?
+8.	What is a conditional probability?
+9.	State and explain Bayes’ Theorem.
+10.	What is the difference between permutation and combination?
+
+🔹 Intermediate Questions
+12.	Explain the Law of Total Probability with an example.
+13.	What is the difference between joint, marginal, and conditional probability?
+14.	What is the Central Limit Theorem and why is it important?
+15.	Explain the concept of expected value.
+16.	What is variance? How is it related to probability?
+17.	When would you use the Binomial distribution?
+18.	When is the Poisson distribution used?
+19.	What is the relationship between the Normal and Binomial distributions?
+20.	What are the properties of a normal distribution?
+21.	How is standard deviation different from variance?
+
+🔹 Advanced/Conceptual Questions
+24.	How do you prove two events are independent using probabilities?
+25.	What are Markov Chains? Give a real-life example.
+26.	What is the Law of Large Numbers?
+27.	What is meant by statistical significance in probability terms?
+28.	How does probability theory apply to hypothesis testing?
+29.	What is a likelihood function?
+30.	Explain the concept of prior and posterior probabilities in Bayesian inference.
+31.	What is the difference between probability and likelihood?
+32.	How do Monte Carlo simulations use probability theory?
+33.	What is the curse of dimensionality in the context of probability and machine learning?
+34.	•  What is entropy in information theory? How does it relate to probability?
+35.	•  Explain the concept of convergence in probability vs. convergence in distribution.
+36.	•  What is the difference between a probability mass function (PMF) and a probability density function (PDF)?
+37.	•  What is a stochastic process?
+38.	•  How would you simulate a probabilistic process (e.g., coin tosses, random walks)?
+39.	•  What are moment generating functions? Why are they useful?
+40.	•  What is the probability integral transform?
+41.	•  How do you compute confidence intervals using probability theory?
+42.	•  What’s the difference between Frequentist and Bayesian probability?
+43.	•  How would you use probability theory to detect anomalies in a dataset
 
