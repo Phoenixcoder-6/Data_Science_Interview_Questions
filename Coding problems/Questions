@@ -1,3 +1,4 @@
 1. implement a basic 'Replay' pattern mechanism using Python to simulate model retraining with different datasets.
 2. Write a function to normalize a dataset using Max-min scaling.
 3. Write a function to standardize a dataset using Z-score normalization (Standard Scaling).
+4. Handle missing values using various strategies (mean, median, interpolation).
