@@ -2,3 +2,4 @@
 2. Write a function to normalize a dataset using Max-min scaling.
 3. Write a function to standardize a dataset using Z-score normalization (Standard Scaling).
 4. Handle missing values using various strategies (mean, median, interpolation).
+5. Encode categorical variables (Label Encoding & One-Hot Encoding)
