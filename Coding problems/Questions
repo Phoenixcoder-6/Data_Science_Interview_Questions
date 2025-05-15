@@ -4,3 +4,4 @@
 4. Handle missing values using various strategies (mean, median, interpolation).
 5. Encode categorical variables (Label Encoding & One-Hot Encoding)
 6. Write a python program to calculate mean and variance of a list of numbers.
+7.
